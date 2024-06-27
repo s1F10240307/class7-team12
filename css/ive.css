@@ -1,1 +1,40 @@
-@charset "UTF-8";
+body {
+    font-family: Arial, sans-serif;
+}
+
+.naiyou {
+    display: flex;
+}
+
+.basic-info {
+    width: 30%;
+    padding: 20px;
+    border-right: 1px solid #ccc;
+}
+
+.overview {
+    width: 70%;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin: 10px 0;
+}
+
+ol, ul {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
