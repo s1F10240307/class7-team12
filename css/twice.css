@@ -6,15 +6,32 @@ body {
     display: flex;
 }
 
-.basic-info {
-    width: 30%;
+.side {
+    width: 20%;
+    background-color: white;
     padding: 20px;
     border-right: 1px solid #ccc;
 }
 
-.overview {
-    width: 70%;
+.content {
+    width: 80%;
     padding: 20px;
+}
+
+.basic-info {
+    margin-bottom: 20px;
+}
+
+.overview {
+    margin-bottom: 20px;
+}
+
+.members {
+    margin-bottom: 20px;
+}
+
+.songs {
+    margin-bottom: 20px;
 }
 
 h1 {
@@ -46,16 +63,11 @@ hr {
     margin: 20px 0;
 }
 
-.title{
+.title {
     color: rgb(236, 145, 236);
     font-size: 25px;
 }
 
-.side {
-    width:20%;
-    background-color: white;
-}
-
-.url{
-    color: rgb(236, 145, 236);;
+.url {
+    color: rgb(236, 145, 236);
 }
