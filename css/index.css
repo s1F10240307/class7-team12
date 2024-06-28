@@ -10,9 +10,31 @@
     width:80%;
     background-color:white;
 }
+h1 {
+    text-align: center;
+}
+
+p {
+    margin: 10px 0;
+}
+
+ol, ul {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
 
 .side {
-    width:20%;
+    width: 30%;
+    padding: 20px;
+    border-right: 1px solid #ccc;
     text-align: center;
-    background-color:rgb(145, 204, 255);
 }
