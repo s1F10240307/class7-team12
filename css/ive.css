@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    
 }
 
 .naiyou {
@@ -7,9 +8,11 @@ body {
 }
 
 .basic-info {
-    width: 30%;
-    padding: 20px;
+    width: 20%;
+    padding: 0px;
     border-right: 1px solid #ccc;
+    background-color: mistyrose;
+    border: solid;
 }
 
 .overview {
@@ -17,8 +20,12 @@ body {
     padding: 20px;
 }
 
-h1 {
+h1 {color: crimson;
     text-align: center;
+    margin: 10px 450px 10px 450px;
+    padding: 10px 20px 10px 20px;
+    border: solid 5px #ff7777;
+    
 }
 
 p {
@@ -37,4 +44,10 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+span.important{color: hotpink;
+    border-bottom: crimson;
+
+
 }
