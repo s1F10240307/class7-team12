@@ -18,6 +18,7 @@ body {
 }
 
 h1 {
+    color: rgb(236, 145, 236);
     text-align: center;
 }
 
@@ -43,4 +44,18 @@ hr {
     height: 1px;
     background: #ccc;
     margin: 20px 0;
+}
+
+.title{
+    color: rgb(236, 145, 236);
+    font-size: 25px;
+}
+
+.side {
+    width:20%;
+    background-color: white;
+}
+
+.url{
+    color: rgb(236, 145, 236);;
 }
