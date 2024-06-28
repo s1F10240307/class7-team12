@@ -1,1 +1,5 @@
 @charset "UTF-8";
+.black-background {
+    background-color: #000; /* 背景色を黒に指定 */
+    color: #fff; /* 文字色を白に指定（必要に応じて） */
+}
