@@ -44,3 +44,12 @@ hr {
     background: #ccc;
     margin: 20px 0;
 }
+
+.title{
+    font-size: 25px;
+}
+
+.side {
+    width:20%;
+    background-color:white
+}
